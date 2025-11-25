@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of MatchSpot – A real time Club Dating Experience",
+  "description": "MatchSpot combines the spontaneity of nightlife with the connection of dating apps. We turn clubs and pubs into real-life matchmaking zones where app users can instantly find, match, and meet people around them—in real time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
